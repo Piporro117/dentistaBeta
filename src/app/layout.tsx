@@ -8,7 +8,7 @@ import { Carousel, CarouselApi, CarouselContent, CarouselItem } from "@/componen
 import { useEffect, useState } from "react";
 import { Button } from "@/components/ui/button";
 
-
+// esta es la rama del trabajo
 
 export default function RootLayout({
   children,
