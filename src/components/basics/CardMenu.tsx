@@ -28,7 +28,7 @@ export default function CardMenu() {
 
 
                     <section className="flex flex-row-reverse pt-20 h-36 ">
-                        <Button className="h-full w-1/3 rounded-md bg-blue-400 text-white  hover:text-blue-400 hover:bg-white text-xl">
+                        <Button className="h-full w-1/3 rounded-md bg-blue-400 text-white  hover:text-blue-400 hover:bg-white text-xl hover:cursor-pointer">
                             Mas informacion
                         </Button>
                     </section>

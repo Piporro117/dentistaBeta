@@ -17,10 +17,10 @@ export default function NavBar() {
 
 
             <div className="flex h-full">
-                <Button className="h-full rounded-none w-28 text-white bg-blue-400 hover:text-blue-400 hover:bg-white"> Boton </Button>
-                <Button className="h-full rounded-none w-28 text-white bg-blue-400 hover:text-blue-400 hover:bg-white"> Boton </Button>
-                <Button className="h-full rounded-none w-28 text-white bg-blue-400 hover:text-blue-400 hover:bg-white"> Boton </Button>
-                <Button className="h-full rounded-none w-28 text-white bg-blue-400 hover:text-blue-400 hover:bg-white"> Boton </Button>
+                <Button className="h-full rounded-none w-28 text-white bg-blue-400 hover:text-blue-400 hover:bg-white hover:cursor-pointer"> Boton </Button>
+                <Button className="h-full rounded-none w-28 text-white bg-blue-400 hover:text-blue-400 hover:bg-white hover:cursor-pointer"> Boton </Button>
+                <Button className="h-full rounded-none w-28 text-white bg-blue-400 hover:text-blue-400 hover:bg-white hover:cursor-pointer"> Boton </Button>
+                <Button className="h-full rounded-none w-28 text-white bg-blue-400 hover:text-blue-400 hover:bg-white hover:cursor-pointer"> Boton </Button>
             </div>
 
 
